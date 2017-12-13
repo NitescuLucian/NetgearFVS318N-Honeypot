@@ -1,0 +1,527 @@
+
+
+
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+Origin: http://127.0.0.1:5000
+Content-Length: 290
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Connection: keep-alive
+Host: 127.0.0.1:5000
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([('USERDBUsers.UserName', u'sad'), ('USERDBUsers.Password', u'asdasd'), ('button.login.USERDBUsers.router_status', u'Login'), ('USERDBDomains.Domainname', u'nlihome'), ('Login.userAgent', u'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'), ('thispage', u'index.htm')])
+
+==========================================
+
+
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Connection: keep-alive
+Pragma: no-cache
+Host: 127.0.0.1:5000
+Cache-Control: no-cache
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+Origin: http://127.0.0.1:5000
+Content-Length: 290
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Connection: keep-alive
+Host: 127.0.0.1:5000
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([('USERDBUsers.UserName', u'sad'), ('USERDBUsers.Password', u'asd'), ('button.login.USERDBUsers.router_status', u'Login'), ('USERDBDomains.Domainname', u'geardomain'), ('Login.userAgent', u'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'), ('thispage', u'index.htm')])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+Origin: http://127.0.0.1:5000
+Content-Length: 290
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Connection: keep-alive
+Host: 127.0.0.1:5000
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([('USERDBUsers.UserName', u'sad'), ('USERDBUsers.Password', u'asd'), ('button.login.USERDBUsers.router_status', u'Login'), ('USERDBDomains.Domainname', u'geardomain'), ('Login.userAgent', u'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'), ('thispage', u'index.htm')])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Connection: keep-alive
+Pragma: no-cache
+Host: 127.0.0.1:5000
+Cache-Control: no-cache
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-08 22:05:11
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+Origin: http://127.0.0.1:5000
+Content-Length: 290
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Connection: keep-alive
+Host: 127.0.0.1:5000
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([('USERDBUsers.UserName', u'sad'), ('USERDBUsers.Password', u'asd'), ('button.login.USERDBUsers.router_status', u'Login'), ('USERDBDomains.Domainname', u'geardomain'), ('Login.userAgent', u'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'), ('thispage', u'index.htm')])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-08 22:05:11
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Connection: keep-alive
+Pragma: no-cache
+Host: 127.0.0.1:5000
+Cache-Control: no-cache
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Host: 127.0.0.1:5000
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Host: 127.0.0.1:5000
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Host: 127.0.0.1:5000
+Accept: */*
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: text/css,*/*;q=0.1
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: */*
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: */*
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: */*
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: */*
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/images/style.css
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/images/style.css
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/images/style.css
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/images/style.css
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/images/style.css
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/images/style.css
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/images/style.css
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/images/style.css
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
+
+
+
+Attacker IP: 127.0.0.1
+
+2017-12-11 15:52:57
+
+Referer: http://127.0.0.1:5000/scgi-bin/platform.cgi
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+Connection: keep-alive
+Cookie: Encrypted_Game_Session=ITSSn%2FICisO1i6CBSOBGkzM0kJWzU%2FS02%2B%2B92B6zVJt3N5aRvRTSxbbP9tlP4VKdcziQlroU0pa7nqPZS%2BMCyXBol8PoENSSt5rwjx7lB5gkOZfD6EDRlb%2BZ8JALvBeSdDSFy%2Bgc1dW02vzVE6U0xCF3wtepQJLM%2FJPz1wvpBcUlPIWe%2BkuIza35qoxQ4haIciyc1rNEitX8yqmfTKVfwXo%2BnNazR4rV%2FMqpn0y1RpMpNJee9A%3D%3D; wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_5c016e8f0f95f039102cbe8366c5c7f3=luciann%7C1512642784%7CSeIZ0bDVBoBlU8x1eXfUTJmAk5zUneFRM6aBnxFWZGE%7C31078992a7ebde4ce6eb320a54694d7d5d47c33d01f4789008f577290da9c4ef; wp-settings-time-1=1512558239
+Host: 127.0.0.1:5000
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: ro-RO,ro;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Encoding: gzip, deflate, br
+
+
+
+ImmutableMultiDict([])
+
+==========================================
